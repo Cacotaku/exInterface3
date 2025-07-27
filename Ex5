@@ -1,0 +1,12 @@
+# Escreva um programa que calcule a soma de três variáveis e imprima o resultado na tela
+import random
+
+a = random.random()
+b = random.random()
+c = random.random()
+
+print("A= ", a, "\nB= ", b, "\nC= ",c)
+
+Resultado = (a + b + c)
+
+print("Resultado: " , Resultado)

@@ -1,0 +1,6 @@
+# Faça um programa que exiba seu nome na tela
+
+#print("Digite Seu nome: ")
+Name = input("Digite Seu nome: ")
+
+print("Seu nome é: ", Name)

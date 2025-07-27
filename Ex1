@@ -1,0 +1,12 @@
+# Converta as seguites expressões matemáticas para que possam ser calculadas usando o interpretador Python: 
+# 10+20*30 
+# 4**2/30 
+# (9**4+2)*6-1
+
+R1 = 10+20*30
+R2 = 4**2/30
+R3 = (9**4+2)*6-1
+
+print("O resultado da primeira operação é: ", R1)
+print("O resultado da segunda operação é: ", R2)
+print("O resultado da terceira operação é: ", R3)
